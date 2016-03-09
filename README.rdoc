@@ -1,0 +1,11 @@
+== Sample Blog App
+
+This is a sample blog application to assist in development of paywall
+frontend.
+
+- clone this repo 
+
+- copy latest files from paywall frontend to `public/paywall-plugin/`
+  folder
+
+- change stylesheed host in paywall.js to `localhost:3000` from `s3`
